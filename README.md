@@ -10,4 +10,4 @@ Answer:
 Who is Gerorge Washington
 Once you have responded to a question click Submit.  It will then tell you if your correct.
 If yoo would like another question, just click the next question button.
-For more information on Jeopardy
+For more information on Jeopardy goto https://www.jeopardy.com/
