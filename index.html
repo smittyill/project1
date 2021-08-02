@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,17 +9,21 @@
   <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
   <title>Jeopardy</title>
 </head>
+
 <body>
   <h1 class="title">Welcome to Jeopardy!</h1>
   <div class="jeopardy-container">
     <label for="fname">Question is:</label><br>
-  <input type="text" id="question"  name="question"><br>
-  <label for="fname">Respomse is:</label><br>
-  <input type="text" id="answer" name="answer"><br>
+    <input type="text" id="question" name="question" size="50"><br>
+    <label for="fname">Respomse is:</label><br>
+    <input type="text" id="answer" name="answer" size="50"><br>
 
-  <button id="submit" type="button">Submit!</button> 
+    <button id="submit" type="button">Submit</button>
+    <button id="next_question" type="button">Next Question</button>
+    <H2 id="response"></H2>
   </div>
   
 </body>
 <script src="script.js"></script>
+
 </html>
