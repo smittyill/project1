@@ -7,7 +7,7 @@ let answers = [
     { question: 'A large Ag MFG in the Quad Cities', answer: 'who is John Deere' },
  { question: 'Who is CEO of John Deere', answer: 'who is John May' },
  { question: 'Who is the first president of the USA', answer: 'who is George Washington' },
- { question: 'Who is govenor of Iowa', answer: 'who is Reynolds' },
+ { question: 'Who is governor of Iowa', answer: 'who is Reynolds' },
   { question: 'Where is John Deere HQ located', answer: 'where is Moline' }
 
 ]
